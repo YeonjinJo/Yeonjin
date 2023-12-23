@@ -11,7 +11,7 @@
     justify-content: center;
     text-shadow: 5px 5px 5px 0px black;
 
-    background-image: url("title.png");
+    background-image: "title.png";
     background-position: center;
     background-size: cover;
 }
